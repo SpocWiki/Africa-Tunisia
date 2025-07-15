@@ -40,11 +40,18 @@ markerFolder: ./Sfax/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Sfax|Sfax]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Sfax.public|Sfax.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Sfax.internal|Sfax.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Sfax.protect|Sfax.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Sfax.private|Sfax.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Sfax.personal|Sfax.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Sfax.secret|Sfax.secret]] 
+
+### #is_/same_as :: [Sfax](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sfax.md) 
+
+### #is_/same_as :: [Sfax.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sfax.public.md) 
+
+### #is_/same_as :: [Sfax.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sfax.internal.md) 
+
+### #is_/same_as :: [Sfax.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sfax.protect.md) 
+
+### #is_/same_as :: [Sfax.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sfax.private.md) 
+
+### #is_/same_as :: [Sfax.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sfax.personal.md) 
+
+### #is_/same_as :: [Sfax.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sfax.secret.md)
 

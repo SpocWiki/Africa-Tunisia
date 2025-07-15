@@ -40,11 +40,18 @@ markerFolder: ./Sousse/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Sousse|Sousse]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Sousse.public|Sousse.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Sousse.internal|Sousse.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Sousse.protect|Sousse.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Sousse.private|Sousse.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Sousse.personal|Sousse.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Sousse.secret|Sousse.secret]] 
+
+### #is_/same_as :: [Sousse](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sousse.md) 
+
+### #is_/same_as :: [Sousse.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sousse.public.md) 
+
+### #is_/same_as :: [Sousse.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sousse.internal.md) 
+
+### #is_/same_as :: [Sousse.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sousse.protect.md) 
+
+### #is_/same_as :: [Sousse.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sousse.private.md) 
+
+### #is_/same_as :: [Sousse.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sousse.personal.md) 
+
+### #is_/same_as :: [Sousse.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sousse.secret.md)
 

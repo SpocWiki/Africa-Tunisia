@@ -40,11 +40,18 @@ markerFolder: ./Le_Kef/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Le_Kef|Le_Kef]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Le_Kef.public|Le_Kef.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Le_Kef.internal|Le_Kef.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Le_Kef.protect|Le_Kef.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Le_Kef.private|Le_Kef.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Le_Kef.personal|Le_Kef.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Le_Kef.secret|Le_Kef.secret]] 
+
+### #is_/same_as :: [Le_Kef](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Le_Kef.md) 
+
+### #is_/same_as :: [Le_Kef.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Le_Kef.public.md) 
+
+### #is_/same_as :: [Le_Kef.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Le_Kef.internal.md) 
+
+### #is_/same_as :: [Le_Kef.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Le_Kef.protect.md) 
+
+### #is_/same_as :: [Le_Kef.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Le_Kef.private.md) 
+
+### #is_/same_as :: [Le_Kef.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Le_Kef.personal.md) 
+
+### #is_/same_as :: [Le_Kef.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Le_Kef.secret.md)
 

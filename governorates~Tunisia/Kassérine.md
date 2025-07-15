@@ -40,11 +40,18 @@ markerFolder: ./Kassérine/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Kassérine|Kassérine]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Kassérine.public|Kassérine.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Kassérine.internal|Kassérine.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Kassérine.protect|Kassérine.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Kassérine.private|Kassérine.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Kassérine.personal|Kassérine.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Kassérine.secret|Kassérine.secret]] 
+
+### #is_/same_as :: [Kassérine](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Kassérine.md) 
+
+### #is_/same_as :: [Kassérine.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Kassérine.public.md) 
+
+### #is_/same_as :: [Kassérine.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Kassérine.internal.md) 
+
+### #is_/same_as :: [Kassérine.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Kassérine.protect.md) 
+
+### #is_/same_as :: [Kassérine.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Kassérine.private.md) 
+
+### #is_/same_as :: [Kassérine.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Kassérine.personal.md) 
+
+### #is_/same_as :: [Kassérine.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Kassérine.secret.md)
 

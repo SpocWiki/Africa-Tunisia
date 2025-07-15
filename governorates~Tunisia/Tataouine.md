@@ -40,11 +40,18 @@ markerFolder: ./Tataouine/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Tataouine|Tataouine]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Tataouine.public|Tataouine.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Tataouine.internal|Tataouine.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Tataouine.protect|Tataouine.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Tataouine.private|Tataouine.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Tataouine.personal|Tataouine.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Tataouine.secret|Tataouine.secret]] 
+
+### #is_/same_as :: [Tataouine](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tataouine.md) 
+
+### #is_/same_as :: [Tataouine.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tataouine.public.md) 
+
+### #is_/same_as :: [Tataouine.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tataouine.internal.md) 
+
+### #is_/same_as :: [Tataouine.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tataouine.protect.md) 
+
+### #is_/same_as :: [Tataouine.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tataouine.private.md) 
+
+### #is_/same_as :: [Tataouine.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tataouine.personal.md) 
+
+### #is_/same_as :: [Tataouine.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tataouine.secret.md)
 

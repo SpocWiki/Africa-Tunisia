@@ -132,10 +132,4 @@ Capital :: [[Tunis]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Tunisia|Tunisia]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~North/Tunisia.internal|Tunisia.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~North/Tunisia.protect|Tunisia.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~North/Tunisia.private|Tunisia.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~North/Tunisia.personal|Tunisia.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~North/Tunisia.secret|Tunisia.secret]] 
+

@@ -40,11 +40,18 @@ markerFolder: ./Jendouba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Jendouba|Jendouba]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Jendouba.public|Jendouba.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Jendouba.internal|Jendouba.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Jendouba.protect|Jendouba.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Jendouba.private|Jendouba.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Jendouba.personal|Jendouba.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Jendouba.secret|Jendouba.secret]] 
+
+### #is_/same_as :: [Jendouba](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Jendouba.md) 
+
+### #is_/same_as :: [Jendouba.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Jendouba.public.md) 
+
+### #is_/same_as :: [Jendouba.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Jendouba.internal.md) 
+
+### #is_/same_as :: [Jendouba.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Jendouba.protect.md) 
+
+### #is_/same_as :: [Jendouba.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Jendouba.private.md) 
+
+### #is_/same_as :: [Jendouba.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Jendouba.personal.md) 
+
+### #is_/same_as :: [Jendouba.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Jendouba.secret.md)
 

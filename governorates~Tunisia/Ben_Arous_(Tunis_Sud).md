@@ -40,11 +40,18 @@ markerFolder: ./Ben_Arous_(Tunis_Sud)/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud)|Ben_Arous_(Tunis_Sud)]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).public|Ben_Arous_(Tunis_Sud).public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).internal|Ben_Arous_(Tunis_Sud).internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).protect|Ben_Arous_(Tunis_Sud).protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).private|Ben_Arous_(Tunis_Sud).private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).personal|Ben_Arous_(Tunis_Sud).personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Ben_Arous_(Tunis_Sud).secret|Ben_Arous_(Tunis_Sud).secret]] 
+
+### #is_/same_as :: [Ben_Arous_(Tunis_Sud)](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Ben_Arous_(Tunis_Sud).md) 
+
+### #is_/same_as :: [Ben_Arous_(Tunis_Sud).public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Ben_Arous_(Tunis_Sud).public.md) 
+
+### #is_/same_as :: [Ben_Arous_(Tunis_Sud).internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Ben_Arous_(Tunis_Sud).internal.md) 
+
+### #is_/same_as :: [Ben_Arous_(Tunis_Sud).protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Ben_Arous_(Tunis_Sud).protect.md) 
+
+### #is_/same_as :: [Ben_Arous_(Tunis_Sud).private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Ben_Arous_(Tunis_Sud).private.md) 
+
+### #is_/same_as :: [Ben_Arous_(Tunis_Sud).personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Ben_Arous_(Tunis_Sud).personal.md) 
+
+### #is_/same_as :: [Ben_Arous_(Tunis_Sud).secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Ben_Arous_(Tunis_Sud).secret.md)
 

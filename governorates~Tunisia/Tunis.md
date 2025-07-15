@@ -40,11 +40,18 @@ markerFolder: ./Tunis/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Tunis|Tunis]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Tunis.public|Tunis.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Tunis.internal|Tunis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Tunis.protect|Tunis.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Tunis.private|Tunis.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Tunis.personal|Tunis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Tunis.secret|Tunis.secret]] 
+
+### #is_/same_as :: [Tunis](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.md) 
+
+### #is_/same_as :: [Tunis.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.public.md) 
+
+### #is_/same_as :: [Tunis.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.internal.md) 
+
+### #is_/same_as :: [Tunis.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.protect.md) 
+
+### #is_/same_as :: [Tunis.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.private.md) 
+
+### #is_/same_as :: [Tunis.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.personal.md) 
+
+### #is_/same_as :: [Tunis.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.secret.md)
 

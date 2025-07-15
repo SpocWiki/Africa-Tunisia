@@ -40,11 +40,18 @@ markerFolder: ./Siliana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Siliana|Siliana]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Siliana.public|Siliana.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Siliana.internal|Siliana.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Siliana.protect|Siliana.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Siliana.private|Siliana.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Siliana.personal|Siliana.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Siliana.secret|Siliana.secret]] 
+
+### #is_/same_as :: [Siliana](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.md) 
+
+### #is_/same_as :: [Siliana.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.public.md) 
+
+### #is_/same_as :: [Siliana.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.internal.md) 
+
+### #is_/same_as :: [Siliana.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.protect.md) 
+
+### #is_/same_as :: [Siliana.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.private.md) 
+
+### #is_/same_as :: [Siliana.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.personal.md) 
+
+### #is_/same_as :: [Siliana.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.secret.md)
 

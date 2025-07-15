@@ -40,11 +40,18 @@ markerFolder: ./Sidi_Bou_Zid/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid|Sidi_Bou_Zid]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.public|Sidi_Bou_Zid.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.internal|Sidi_Bou_Zid.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.protect|Sidi_Bou_Zid.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.private|Sidi_Bou_Zid.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.personal|Sidi_Bou_Zid.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Sidi_Bou_Zid.secret|Sidi_Bou_Zid.secret]] 
+
+### #is_/same_as :: [Sidi_Bou_Zid](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.md) 
+
+### #is_/same_as :: [Sidi_Bou_Zid.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.public.md) 
+
+### #is_/same_as :: [Sidi_Bou_Zid.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.internal.md) 
+
+### #is_/same_as :: [Sidi_Bou_Zid.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.protect.md) 
+
+### #is_/same_as :: [Sidi_Bou_Zid.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.private.md) 
+
+### #is_/same_as :: [Sidi_Bou_Zid.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.personal.md) 
+
+### #is_/same_as :: [Sidi_Bou_Zid.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.secret.md)
 

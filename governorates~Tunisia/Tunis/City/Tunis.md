@@ -1,4 +1,4 @@
-﻿---
+---
 location: [36.8,10.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/City/Tunis|Tunis]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tunisia/City/Tunis.public|Tunis.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/City/Tunis.internal|Tunis.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/City/Tunis.protect|Tunis.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tunisia/City/Tunis.private|Tunis.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/City/Tunis.personal|Tunis.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/City/Tunis.secret|Tunis.secret]] 
+
+### #is_/same_as :: [Tunis](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis/City/Tunis.md) 
+
+### #is_/same_as :: [Tunis.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis/City/Tunis.public.md) 
+
+### #is_/same_as :: [Tunis.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis/City/Tunis.internal.md) 
+
+### #is_/same_as :: [Tunis.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis/City/Tunis.protect.md) 
+
+### #is_/same_as :: [Tunis.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis/City/Tunis.private.md) 
+
+### #is_/same_as :: [Tunis.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis/City/Tunis.personal.md) 
+
+### #is_/same_as :: [Tunis.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis/City/Tunis.secret.md)
+

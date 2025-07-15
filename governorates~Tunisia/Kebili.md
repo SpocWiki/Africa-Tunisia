@@ -40,11 +40,18 @@ markerFolder: ./Kebili/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Kebili|Kebili]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Kebili.public|Kebili.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Kebili.internal|Kebili.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Kebili.protect|Kebili.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Kebili.private|Kebili.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Kebili.personal|Kebili.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Kebili.secret|Kebili.secret]] 
+
+### #is_/same_as :: [Kebili](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Kebili.md) 
+
+### #is_/same_as :: [Kebili.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Kebili.public.md) 
+
+### #is_/same_as :: [Kebili.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Kebili.internal.md) 
+
+### #is_/same_as :: [Kebili.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Kebili.protect.md) 
+
+### #is_/same_as :: [Kebili.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Kebili.private.md) 
+
+### #is_/same_as :: [Kebili.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Kebili.personal.md) 
+
+### #is_/same_as :: [Kebili.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Kebili.secret.md)
 

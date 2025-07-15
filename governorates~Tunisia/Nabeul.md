@@ -40,11 +40,18 @@ markerFolder: ./Nabeul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Tunisia/Counties/Nabeul|Nabeul]] 
-- [[../../../../../../_public/geo/Continent/Africa/Tunisia/Counties/Nabeul.public|Nabeul.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Tunisia/Counties/Nabeul.internal|Nabeul.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Tunisia/Counties/Nabeul.protect|Nabeul.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Tunisia/Counties/Nabeul.private|Nabeul.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Tunisia/Counties/Nabeul.personal|Nabeul.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Tunisia/Counties/Nabeul.secret|Nabeul.secret]] 
+
+### #is_/same_as :: [Nabeul](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Nabeul.md) 
+
+### #is_/same_as :: [Nabeul.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Nabeul.public.md) 
+
+### #is_/same_as :: [Nabeul.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Nabeul.internal.md) 
+
+### #is_/same_as :: [Nabeul.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Nabeul.protect.md) 
+
+### #is_/same_as :: [Nabeul.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Nabeul.private.md) 
+
+### #is_/same_as :: [Nabeul.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Nabeul.personal.md) 
+
+### #is_/same_as :: [Nabeul.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Nabeul.secret.md)
 
