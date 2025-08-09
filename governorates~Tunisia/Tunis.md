@@ -1,42 +1,132 @@
 ---
-location: [36.8,10.18] 
-mapzoom: [7,12] 
-mapmarker: city 
-type: City
+location:
+  - 36.8
+  - 10.18
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
+type: private_note
 tags:
-- geo/City
-
-
+  - geo/Country/Region
+  - "{ newTitle: null }": 
+  - excalidraw
 SpocWebEntityId: 35044
-title: Tunis
-
-license: CC BY-SA 4.0
+title:
+  "{ newTitle: null }": 
+license: (c)copyrighted
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
-draft: false
-confidential: public
-
-tags:
-- geo/Country/Region
+draft: true
+confidential: private
 aliases:
-- Tunis
-
+  - Tunis
+  - "{ newTitle: null }": 
 Languages:
-- de
-
-cssclasses: geo-Region
-publish: true
-linkTitle: 
-keywords: 
+  - de
+cssclasses:
+  - geo-Region
+  - private
+  - note
+publish: false
+linkTitle:
+  "{ newTitle: null }": 
+keywords:
+  "{ newTitle: null }": 
 layout: 
 publishDate: 
 expiryDate: 
+has_id_wikidata: Q3572
+described_by_source:
+  - "[[db/Catholic_Encyclopedia]]"
+  - "[[db/Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
+  - "[[db/Encyclopædia_Britannica_11th_edition]]"
+  - "[[db/Granat_Encyclopedic_Dictionary]]"
+  - "[[db/Collier's_New_Encyclopedia,_1921]]"
+  - "[[db/Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru]]"
+located_in_the_administrative_territorial_entity: "[[db/Tunis_Governorate]]"
+twinned_administrative_body:
+  - "[[db/Jeddah]]"
+  - "[[db/Tashkent]]"
+  - "[[db/Montreal]]"
+  - "[[db/Cologne]]"
+  - "[[db/Istanbul]]"
+  - "[[db/Turin]]"
+  - "[[db/Lisbon]]"
+  - "[[db/Moscow]]"
+  - "[[db/Prague]]"
+  - "[[db/Stockholm]]"
+  - "[[db/Santiago]]"
+  - "[[db/Rabat]]"
+  - "[[db/Tripoli]]"
+  - "[[db/Amman]]"
+  - "[[db/Muscat]]"
+  - "[[db/Doha]]"
+  - "[[db/Rio_de_Janeiro]]"
+  - "[[db/Marseille]]"
+  - "[[db/Paris]]"
+  - "[[db/Kuwait_City]]"
+located_in_or_next_to_body_of_water:
+  - "[[db/Lake_of_Tunis]]"
+  - "[[db/Gulf_of_Tunis]]"
+member_of:
+  - "[[db/Organization_of_World_Heritage_Cities]]"
+  - "[[db/Creative_Cities_Network]]"
+  - "[[db/League_of_Historical_Cities]]"
+instance_of:
+  - "[[db/big_city]]"
+  - "[[db/municipality_of_Tunisia]]"
+history_of_topic: "[[db/timeline_of_Tunis_history]]"
+topic_s_main_Wikimedia_portal: "[[db/Portal_Tunis]]"
+head_of_government: "[[db/Imed_Boukhris]]"
+economy_of_topic: "[[db/economy_of_Tunis]]"
+capital_of: "[[db/Tunisia]]"
+country: "[[db/Tunisia]]"
+located_in_time_zone: "[[db/UTC+01_00]]"
+official_language: "[[db/Arabic]]"
+elevation_above_sea_level: 4
+local_dialing_code: "71"
+postal_code: "1000"
+area: 212630000
+population: 602560
+GitHub_topic: tunis
+WOEID: "1442746"
+Commons_category: Tunis
+demonym:
+  - tunisini
+  - Tunisois
+  - Tunisoise
+  - Tunisoises
+native_label: تونس
+official_name: تونس
+U_S_National_Archives_Identifier: "10044498"
+coordinate_location: Point(10.18 36.800833333)
+detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Location%20map%20Greater%20Tunis.png
+montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/MontageTunis.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Panoramique%20du%20centre%20de%20Tunis%20%283197369985%29%20%28cropped%29.jpg
+nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9%C3%A2tre%20municipal1.JPG
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Tunis%20in%20Tunisia.svg
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Tunis%20Marche%20Central.jpg
+official_website: http://www.commune-tunis.gov.tn/
+P8189:
+  - "987007309177905171"
+  - "987007564235605171"
+Libris_URI: dbqsrtmx37sz106
+UN_LOCODE: TNTUN
+Commons_gallery: تونس / Tunis
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  "{ \"date:YYYY-MM-DD\": null }": 
+lang: en
 ---
 
-# Tunis
+# [[Tunis]] 
 
-[geo-lon::10.18] 
+[geo-lon::10.18]  
 [geo-lat::36.8] 
 [name::Tunis] 
 State ::  
@@ -45,6 +135,9 @@ Country :: [[Tunisia]]
 [Population::] 
 [Unknown::] 
 
+#is_/same_as :: [[../../../../../../WikiData/WD~Tunis,3572|WD~Tunis,3572]] 
+
+## #has_/map  
 
 ```leaflet
 id: Tunis
@@ -55,7 +148,7 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Tunis///
-markerFolder: ./Tunis//
+markerFolder: ./Tunis///
 ```
 
 
@@ -99,3 +192,22 @@ markerFolder: ./Tunis//
 
 ### #is_/same_as :: [Tunis.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.secret.md)
 
+
+# [[Tunis]] 
+
+#is_/part_of :: [[Tunis]] 
+
+![[Tunis.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[<% tp.file.title %>.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
