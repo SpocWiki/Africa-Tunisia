@@ -88,3 +88,22 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "CarthageFounded"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carthage) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Carthage](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis/counties~Tunis/Carthage.md) 
+
+### #is_/same_as :: [Carthage.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis/counties~Tunis/Carthage.public.md) 
+
+### #is_/same_as :: [Carthage.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis/counties~Tunis/Carthage.internal.md) 
+
+### #is_/same_as :: [Carthage.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis/counties~Tunis/Carthage.protect.md) 
+
+### #is_/same_as :: [Carthage.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis/counties~Tunis/Carthage.private.md) 
+
+### #is_/same_as :: [Carthage.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis/counties~Tunis/Carthage.personal.md) 
+
+### #is_/same_as :: [Carthage.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis/counties~Tunis/Carthage.secret.md)
+
