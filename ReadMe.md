@@ -1,37 +1,38 @@
 ---
 location:
-- 36.8
-- 10.18
+  - 36.8
+  - 10.18
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27036
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Tunisia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Tunisia
-- Túnez
-- Tunisie
-- تونس
-- 突尼斯
-- Тунис
-- the Republic of Tunisia
-- la República de Túnez
+  - Tunisia
+  - Túnez
+  - Tunisie
+  - تونس
+  - 突尼斯
+  - Тунис
+  - the Republic of Tunisia
+  - la República de Túnez
 Languages:
-- ar-TN
-- fr
+  - ar-TN
+  - fr
 ---
 
 
