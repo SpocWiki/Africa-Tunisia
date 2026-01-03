@@ -40,17 +40,17 @@ markerFolder: ./Siliana/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Siliana](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana|Siliana]] 
 
-### #is_/same_as :: [Siliana.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.public|Siliana.public]] 
 
-### #is_/same_as :: [Siliana.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.internal|Siliana.internal]] 
 
-### #is_/same_as :: [Siliana.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.protect|Siliana.protect]] 
 
-### #is_/same_as :: [Siliana.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.private|Siliana.private]] 
 
-### #is_/same_as :: [Siliana.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.personal|Siliana.personal]] 
 
-### #is_/same_as :: [Siliana.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Siliana.secret|Siliana.secret]] 
 

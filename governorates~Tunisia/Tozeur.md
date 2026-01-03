@@ -40,17 +40,17 @@ markerFolder: ./Tozeur/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tozeur](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tozeur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tozeur|Tozeur]] 
 
-### #is_/same_as :: [Tozeur.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tozeur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tozeur.public|Tozeur.public]] 
 
-### #is_/same_as :: [Tozeur.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tozeur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tozeur.internal|Tozeur.internal]] 
 
-### #is_/same_as :: [Tozeur.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tozeur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tozeur.protect|Tozeur.protect]] 
 
-### #is_/same_as :: [Tozeur.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tozeur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tozeur.private|Tozeur.private]] 
 
-### #is_/same_as :: [Tozeur.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tozeur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tozeur.personal|Tozeur.personal]] 
 
-### #is_/same_as :: [Tozeur.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tozeur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tozeur.secret|Tozeur.secret]] 
 

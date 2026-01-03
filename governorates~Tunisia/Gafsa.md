@@ -40,17 +40,17 @@ markerFolder: ./Gafsa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gafsa](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gafsa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gafsa|Gafsa]] 
 
-### #is_/same_as :: [Gafsa.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gafsa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gafsa.public|Gafsa.public]] 
 
-### #is_/same_as :: [Gafsa.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gafsa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gafsa.internal|Gafsa.internal]] 
 
-### #is_/same_as :: [Gafsa.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gafsa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gafsa.protect|Gafsa.protect]] 
 
-### #is_/same_as :: [Gafsa.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gafsa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gafsa.private|Gafsa.private]] 
 
-### #is_/same_as :: [Gafsa.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gafsa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gafsa.personal|Gafsa.personal]] 
 
-### #is_/same_as :: [Gafsa.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gafsa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gafsa.secret|Gafsa.secret]] 
 

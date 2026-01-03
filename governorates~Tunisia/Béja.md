@@ -40,17 +40,17 @@ markerFolder: ./Béja/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Béja](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Béja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Béja|Béja]] 
 
-### #is_/same_as :: [Béja.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Béja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Béja.public|Béja.public]] 
 
-### #is_/same_as :: [Béja.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Béja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Béja.internal|Béja.internal]] 
 
-### #is_/same_as :: [Béja.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Béja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Béja.protect|Béja.protect]] 
 
-### #is_/same_as :: [Béja.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Béja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Béja.private|Béja.private]] 
 
-### #is_/same_as :: [Béja.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Béja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Béja.personal|Béja.personal]] 
 
-### #is_/same_as :: [Béja.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Béja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Béja.secret|Béja.secret]] 
 

@@ -178,17 +178,17 @@ markerFolder: ./Tunis///
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tunis](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis|Tunis]] 
 
-### #is_/same_as :: [Tunis.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.public|Tunis.public]] 
 
-### #is_/same_as :: [Tunis.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.internal|Tunis.internal]] 
 
-### #is_/same_as :: [Tunis.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.protect|Tunis.protect]] 
 
-### #is_/same_as :: [Tunis.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.private|Tunis.private]] 
 
-### #is_/same_as :: [Tunis.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.personal|Tunis.personal]] 
 
-### #is_/same_as :: [Tunis.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Tunis.secret|Tunis.secret]] 
 

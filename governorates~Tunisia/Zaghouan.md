@@ -40,17 +40,17 @@ markerFolder: ./Zaghouan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zaghouan](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Zaghouan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Zaghouan|Zaghouan]] 
 
-### #is_/same_as :: [Zaghouan.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Zaghouan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Zaghouan.public|Zaghouan.public]] 
 
-### #is_/same_as :: [Zaghouan.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Zaghouan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Zaghouan.internal|Zaghouan.internal]] 
 
-### #is_/same_as :: [Zaghouan.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Zaghouan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Zaghouan.protect|Zaghouan.protect]] 
 
-### #is_/same_as :: [Zaghouan.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Zaghouan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Zaghouan.private|Zaghouan.private]] 
 
-### #is_/same_as :: [Zaghouan.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Zaghouan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Zaghouan.personal|Zaghouan.personal]] 
 
-### #is_/same_as :: [Zaghouan.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Zaghouan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Zaghouan.secret|Zaghouan.secret]] 
 

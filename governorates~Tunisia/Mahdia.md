@@ -40,17 +40,17 @@ markerFolder: ./Mahdia/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mahdia](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Mahdia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Mahdia|Mahdia]] 
 
-### #is_/same_as :: [Mahdia.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Mahdia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Mahdia.public|Mahdia.public]] 
 
-### #is_/same_as :: [Mahdia.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Mahdia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Mahdia.internal|Mahdia.internal]] 
 
-### #is_/same_as :: [Mahdia.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Mahdia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Mahdia.protect|Mahdia.protect]] 
 
-### #is_/same_as :: [Mahdia.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Mahdia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Mahdia.private|Mahdia.private]] 
 
-### #is_/same_as :: [Mahdia.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Mahdia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Mahdia.personal|Mahdia.personal]] 
 
-### #is_/same_as :: [Mahdia.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Mahdia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Mahdia.secret|Mahdia.secret]] 
 

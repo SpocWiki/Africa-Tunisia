@@ -40,17 +40,17 @@ markerFolder: ./Monastir/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monastir](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Monastir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Monastir|Monastir]] 
 
-### #is_/same_as :: [Monastir.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Monastir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Monastir.public|Monastir.public]] 
 
-### #is_/same_as :: [Monastir.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Monastir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Monastir.internal|Monastir.internal]] 
 
-### #is_/same_as :: [Monastir.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Monastir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Monastir.protect|Monastir.protect]] 
 
-### #is_/same_as :: [Monastir.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Monastir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Monastir.private|Monastir.private]] 
 
-### #is_/same_as :: [Monastir.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Monastir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Monastir.personal|Monastir.personal]] 
 
-### #is_/same_as :: [Monastir.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Monastir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Monastir.secret|Monastir.secret]] 
 

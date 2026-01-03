@@ -40,17 +40,17 @@ markerFolder: ./Sidi_Bou_Zid/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sidi_Bou_Zid](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid|Sidi_Bou_Zid]] 
 
-### #is_/same_as :: [Sidi_Bou_Zid.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.public|Sidi_Bou_Zid.public]] 
 
-### #is_/same_as :: [Sidi_Bou_Zid.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.internal|Sidi_Bou_Zid.internal]] 
 
-### #is_/same_as :: [Sidi_Bou_Zid.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.protect|Sidi_Bou_Zid.protect]] 
 
-### #is_/same_as :: [Sidi_Bou_Zid.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.private|Sidi_Bou_Zid.private]] 
 
-### #is_/same_as :: [Sidi_Bou_Zid.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.personal|Sidi_Bou_Zid.personal]] 
 
-### #is_/same_as :: [Sidi_Bou_Zid.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Sidi_Bou_Zid.secret|Sidi_Bou_Zid.secret]] 
 

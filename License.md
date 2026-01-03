@@ -113,17 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [License](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/License.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/License|License]] 
 
-### #is_/same_as :: [License.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/License.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Tunisia/License.public|License.public]] 
 
-### #is_/same_as :: [License.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/License.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Tunisia/License.internal|License.internal]] 
 
-### #is_/same_as :: [License.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/License.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Tunisia/License.protect|License.protect]] 
 
-### #is_/same_as :: [License.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/License.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Tunisia/License.private|License.private]] 
 
-### #is_/same_as :: [License.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/License.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Tunisia/License.personal|License.personal]] 
 
-### #is_/same_as :: [License.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/License.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Tunisia/License.secret|License.secret]] 
 

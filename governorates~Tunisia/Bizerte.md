@@ -40,17 +40,17 @@ markerFolder: ./Bizerte/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bizerte](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Bizerte.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Bizerte|Bizerte]] 
 
-### #is_/same_as :: [Bizerte.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Bizerte.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Bizerte.public|Bizerte.public]] 
 
-### #is_/same_as :: [Bizerte.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Bizerte.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Bizerte.internal|Bizerte.internal]] 
 
-### #is_/same_as :: [Bizerte.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Bizerte.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Bizerte.protect|Bizerte.protect]] 
 
-### #is_/same_as :: [Bizerte.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Bizerte.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Bizerte.private|Bizerte.private]] 
 
-### #is_/same_as :: [Bizerte.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Bizerte.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Bizerte.personal|Bizerte.personal]] 
 
-### #is_/same_as :: [Bizerte.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Bizerte.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Bizerte.secret|Bizerte.secret]] 
 

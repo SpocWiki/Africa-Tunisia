@@ -40,17 +40,17 @@ markerFolder: ./Manubah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Manubah](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Manubah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Manubah|Manubah]] 
 
-### #is_/same_as :: [Manubah.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Manubah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Manubah.public|Manubah.public]] 
 
-### #is_/same_as :: [Manubah.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Manubah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Manubah.internal|Manubah.internal]] 
 
-### #is_/same_as :: [Manubah.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Manubah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Manubah.protect|Manubah.protect]] 
 
-### #is_/same_as :: [Manubah.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Manubah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Manubah.private|Manubah.private]] 
 
-### #is_/same_as :: [Manubah.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Manubah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Manubah.personal|Manubah.personal]] 
 
-### #is_/same_as :: [Manubah.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Manubah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Manubah.secret|Manubah.secret]] 
 

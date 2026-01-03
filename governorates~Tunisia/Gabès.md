@@ -40,17 +40,17 @@ markerFolder: ./Gabès/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gabès](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gabès.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gabès|Gabès]] 
 
-### #is_/same_as :: [Gabès.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gabès.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gabès.public|Gabès.public]] 
 
-### #is_/same_as :: [Gabès.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gabès.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gabès.internal|Gabès.internal]] 
 
-### #is_/same_as :: [Gabès.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gabès.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gabès.protect|Gabès.protect]] 
 
-### #is_/same_as :: [Gabès.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gabès.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gabès.private|Gabès.private]] 
 
-### #is_/same_as :: [Gabès.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gabès.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gabès.personal|Gabès.personal]] 
 
-### #is_/same_as :: [Gabès.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gabès.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Gabès.secret|Gabès.secret]] 
 

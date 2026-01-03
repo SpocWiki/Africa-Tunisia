@@ -40,17 +40,17 @@ markerFolder: ./Médenine/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Médenine](/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Médenine.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Médenine|Médenine]] 
 
-### #is_/same_as :: [Médenine.public](/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Médenine.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Médenine.public|Médenine.public]] 
 
-### #is_/same_as :: [Médenine.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Médenine.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Médenine.internal|Médenine.internal]] 
 
-### #is_/same_as :: [Médenine.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Médenine.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Médenine.protect|Médenine.protect]] 
 
-### #is_/same_as :: [Médenine.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Médenine.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Médenine.private|Médenine.private]] 
 
-### #is_/same_as :: [Médenine.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Médenine.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Médenine.personal|Médenine.personal]] 
 
-### #is_/same_as :: [Médenine.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Médenine.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Tunisia/governorates~Tunisia/Médenine.secret|Médenine.secret]] 
 
