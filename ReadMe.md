@@ -118,7 +118,7 @@ markerFolder: .//
 [Area-Land::155360] 
 Continent :: [[Africa]]  
 [VehicleCode::TN] 
-Capital :: [[governorates~Tunisia/Tunis]]  
+Capital :: [[governorates~Tunisia/Tunis|Tunis]]  
 
 ![[Coat_of_arms_of_Tunisia.svg|350]] 
 
