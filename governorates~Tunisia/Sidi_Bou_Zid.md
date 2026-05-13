@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sidi_Bou_Zid/
 markerFolder: ./Sidi_Bou_Zid/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
